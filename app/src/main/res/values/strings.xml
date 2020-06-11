@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ArmedConflicts</string>
+    <string-array name="regions">
+        <item>all</item>
+        <item>Northern Africa</item>
+        <item>Middle Africa</item>
+        <item>Eastern Africa</item>
+        <item>Western Africa</item>
+        <item>Southern Africa</item>
+        <item>Southern Asia</item>
+        <item>Western Asia</item>
+        <item>South-Eastern Asia</item>
+        <item>South Asia</item>
+        <item>Middle East</item>
+        <item>Europe</item>
+        <item>Caucasus and Central Asia</item>
+        <item>Central America</item>
+        <item>South America</item>
+        <item>Caribbean</item>
+    </string-array>
+
+    <string-array name="event_types">
+        <item>all</item>
+        <item>Battles</item>
+        <item>Riots</item>
+        <item>Violence against civilians</item>
+        <item>Explosions/Remote violence</item>
+        <item>Protests</item>
+        <item>Strategic developments</item>
+    </string-array>
+
+</resources>
